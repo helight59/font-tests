@@ -1,3 +1,46 @@
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-Thin.ttf);
+  font-weight: 100;
+}
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-Light.ttf);
+  font-weight: 200;
+}
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-Medium.ttf);
+  font-weight: 300;
+}
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-Regular.ttf);
+  font-weight: 400;
+}
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-SemiBold.ttf);
+  font-weight: 500;
+}
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-Bold.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-ExtraBold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(./Inter-Black.ttf);
+  font-weight: 800;
+}
+
 body {
   font-family: 'Inter', serif;
 }
@@ -6,23 +49,23 @@ body {
   font-weight: 100;
 }
 .light {
-  font-weight: 100;
+  font-weight: 200;
 }
 .medium {
-  font-weight: 100;
+  font-weight: 300;
 }
 .regular {
-  font-weight: 100;
+  font-weight: 400;
 }
 .semi-bold {
-  font-weight: 100;
+  font-weight: 500;
 }
 .bold {
-  font-weight: 100;
+  font-weight: 600;
 }
 .extra-bold {
-  font-weight: 100;
+  font-weight: 700;
 }
 .black {
-  font-weight: 100;
+  font-weight: 800;
 }
